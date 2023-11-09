@@ -30,4 +30,4 @@ Al igual que [Bubble Sort](https://github.com/DemonQilin/rust-algorithms-practic
 - Es un algoritmo **_destructivo_** porque opera sobre el array de entrada.
 - Dependiendo de como se programe podria ser un algoritmo de **_ordenación estable_**.
 
-> En algunos casos de uso se puede tener **_combinado con algoritmos_** que hacia el caso promedio son mas eficientes, es decir, iniciar con este pero de verse superado un cierto número de iteraciones pasar a algoritmos mas eficientes como [Merge Sort]() o [Quick Sort]().
+> En algunos casos de uso se puede tener **_combinado con algoritmos_** que hacia el caso promedio son mas eficientes, es decir, iniciar con este pero de verse superado un cierto número de iteraciones pasar a algoritmos mas eficientes como [Merge Sort](https://github.com/DemonQilin/rust-algorithms-practice/tree/main/03-merge-sort) o [Quick Sort](https://github.com/DemonQilin/rust-algorithms-practice/tree/main/04-quick-sort).
